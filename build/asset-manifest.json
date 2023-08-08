@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ATM-refactored/static/css/main.11643ba6.css",
+    "main.js": "/ATM-refactored/static/js/main.680ed9fb.js",
+    "static/js/787.51c8ab8b.chunk.js": "/ATM-refactored/static/js/787.51c8ab8b.chunk.js",
+    "index.html": "/ATM-refactored/index.html",
+    "main.11643ba6.css.map": "/ATM-refactored/static/css/main.11643ba6.css.map",
+    "main.680ed9fb.js.map": "/ATM-refactored/static/js/main.680ed9fb.js.map",
+    "787.51c8ab8b.chunk.js.map": "/ATM-refactored/static/js/787.51c8ab8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11643ba6.css",
+    "static/js/main.680ed9fb.js"
+  ]
+}
