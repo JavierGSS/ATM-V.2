@@ -1,26 +1,28 @@
 body {
   margin-left: 600px;
   margin-right: 600px;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Cabin', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   background-color: #e9edc9;
+  background-image: url("./house.jpg");
+  background-position: center;
+  background-repeat:initial;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-family: 'Cabin', sans-serif;
 }
 
 h1 {
   text-align: center;
+
 }
 
 h2 {
   text-align: center;
+  
 }
 
 h3 {
@@ -28,14 +30,18 @@ h3 {
 }
 
 form {
+  width: 100%;
+  margin-left: 600px;
+  margin-right: 600px;
   border: solid 1px rgb(0, 0, 0);
   padding-top: 20px;
+  padding-right: 0px;
   padding-bottom: 30px;
   border-radius: 20px;
-  background-size:contain;
-  background-repeat: no-repeat;
+  background-size:auto;
+  background-repeat:repeat;
   backdrop-filter: blur(5px);
-  background-color: rgba(204, 213, 174, 0.8); /* Color de fondo semi-transparente para resaltar el formulario */
+  background-color: rgba(255, 255, 255, 0.8); /* Color de fondo semi-transparente para resaltar el formulario */
   margin: 60px auto;
   box-shadow: 0px 0px 10px rgba(2, 45, 137, 0.3);
 }
@@ -46,9 +52,10 @@ header{
   box-shadow: 0px 0px 10px rgba(2, 45, 137, 0.3);
   width: 100%;
   padding: 10px;
+  padding-right: 0px;
   border: solid black 1px;
   font-size: xx-large;
-  margin-top: 0px;
+  margin-top: 10px;
   color: rgb(35, 35, 87);
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
