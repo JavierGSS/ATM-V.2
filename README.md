@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Technologies</a> &#xa0; | &#xa0;
   <a href="#alien">Road to future improvements</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -46,23 +46,16 @@
 
 ## :dart: About ##
 
-Describe your project
+Simple ATM with React. Keeps balance in state and allows users to withdraw & deposit finite amounts of money. Implements some validations; lightly styked.
 
-## :sparkles: Features ##
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
-
-## :rocket: Technologies ##
+## :sparkles: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- Node.js(https://nodejs.org/en/)
+- React (https://pt-br.reactjs.org/)
+- VSCode (https://code.visualstudio.com/)
+
 
 ## :white_check_mark: Requirements ##
 
@@ -88,7 +81,7 @@ $ yarn start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
 
 
 Made with :heart: by <a href="https://github.com/JavierGSS" target="_blank">Baba</a>
