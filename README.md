@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Simple ATM with React. Keeps balance in state and allows users to withdraw & deposit finite amounts of money. Implements some validations; lightly styled.
+Simple ATM created with React. Keeps balance in state and allows users to withdraw & deposit finite amounts of money. Implements some validations; lightly styled.
 
 ## :sparkles: Technologies ##
 
